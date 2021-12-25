@@ -1,0 +1,10 @@
+/home/chetans/Downloads/Book_Recommendation_project/books/selfHelpBooks/THESUBTLEARTOFNOTGIVINGAFUCK.txt
+/home/chetans/Downloads/Book_Recommendation_project/books/selfHelpBooks/THEALCHEMIST.txt
+/home/chetans/Downloads/Book_Recommendation_project/books/selfHelpBooks/RICHDADPOORDAD.txt
+/home/chetans/Downloads/Book_Recommendation_project/books/selfHelpBooks/THERICHESTMANINBABYLON.txt
+/home/chetans/Downloads/Book_Recommendation_project/books/selfHelpBooks/HOWTOWINFRIENDSANDINFLUENCEPEOPLE.txt
+/home/chetans/Downloads/Book_Recommendation_project/books/selfHelpBooks/SOGOODTHEYCAN'TIGNOREYOU.txt
+/home/chetans/Downloads/Book_Recommendation_project/books/selfHelpBooks/DEEPWORK.txt
+/home/chetans/Downloads/Book_Recommendation_project/books/selfHelpBooks/THEPOWEROFYOURSUBCONSCIOUSMIND.txt
+/home/chetans/Downloads/Book_Recommendation_project/books/selfHelpBooks/ATOMICHABITS.txt
+/home/chetans/Downloads/Book_Recommendation_project/books/selfHelpBooks/THE7HABITSOFHIGHLYEFFECTIVEPEOPLE.txt
