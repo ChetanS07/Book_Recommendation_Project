@@ -1,3 +1,5 @@
+note : stored all data into single file for emergency conditions
+
 THE SUBTLE ART OF NOT GIVING A FUCK
 THE ALCHEMIST
 RICH DAD POOR DAD
@@ -9,6 +11,7 @@ THE POWER OF YOUR SUBCONSCIOUS MIND
 ATOMIC HABITS
 THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE
 
+note : the location of the files are not updated.  
 
 /home/chetans/Documents/books/selfHelpBooks/THESUBTLEARTOFNOTGIVINGAFUCK.txt
 /home/chetans/Documents/books/selfHelpBooks/THEALCHEMIST.txt
